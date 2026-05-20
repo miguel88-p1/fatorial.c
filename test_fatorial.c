@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 #include <assert.h>
 #include "function_fatorial.c"
 int main()
